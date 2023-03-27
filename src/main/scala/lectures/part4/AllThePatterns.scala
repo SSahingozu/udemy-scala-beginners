@@ -1,7 +1,5 @@
 package lectures.part4
 
-import lectures.part2oop.Generics.MyList
-
 object AllThePatterns extends App {
 
   //1-constraints
